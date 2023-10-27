@@ -1,0 +1,118 @@
+
+header {
+    background-color: #FFD900;
+    height: 120px;
+    grid-column: auto;
+    width: 1410px;
+
+}
+#logo {
+    margin-top: 33px;
+    margin-left: 50px;
+}
+
+#meio {
+
+    display: grid;
+    grid-auto-flow: column;
+}
+
+
+#escrita {
+    background-color: #514988;
+    display: flow-root;
+    width: 700px;
+    height: 594px;
+}
+
+#titulo {
+    color: #F3C61F;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 70px; 
+}
+
+#paragrafo {
+color: #FFFFFF;
+text-align: center;
+font-size: 30px;
+
+}
+
+#texto {
+color: #FFFFFF;
+text-align: center;
+font-size: 25px;
+
+}
+
+.timer {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #514988;
+    font-size: 53px; 
+    display: inline-flex;
+    margin-left: 30px;
+    margin-top: 55px;
+    
+}
+
+
+#video {
+
+margin-left: 10px;
+}
+
+#chamada {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #E33881;
+    font-size: 20px;
+    text-align: center;
+    margin-top: -40px;
+    margin-right: 135px;
+}
+ #textoInferior {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #F3C61F;
+  font-size: 25px;
+  margin-left: 80px;
+
+ }
+
+
+   
+
+
+  #ingresso {
+margin-left: 30px;
+display: grid;
+grid-auto-flow: column;
+
+
+
+
+
+  }
+
+
+   #button {
+    
+    background-color: #514988;
+    color: #FFFFFF;
+    width: 450px;
+    height: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    border-radius: 10px;
+    border: none;
+    font-weight: bold;
+    margin-top: 40px;
+    margin-left: 45px;
+    cursor: pointer;
+
+    
+    
+    
+    
+    
+   
+ }
